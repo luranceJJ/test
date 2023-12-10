@@ -9,5 +9,6 @@ int main()
 	printf("444444 \n");
 	printf("555555 \n");
 	printf("666666 \n");
+	printf("777777 \n");
 	return 0;
 }
